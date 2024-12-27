@@ -1,16 +1,13 @@
-# Kontakt
+# Takayashii | Profile
 
-Chcesz się skontaktować? Oto moje dane kontaktowe:
+I am a passionate **Minecraft Developer**, **Graphic Designer**, and **Video Editor**.
 
-### Discord:
-[![Discord](https://img.shields.io/badge/Discord-Takayashii-7289DA?logo=discord&logoColor=white)](https://discord.com/users/Takayashii)
+- **Minecraft Developer**: Creating custom mods, plugins, and other Minecraft-related content.
+- **Graphic Designer**: Designing visual assets for web, games, and more.
+- **Video Editor**: Editing videos, animations, and creating compelling content.
 
-### Guns.lol:
-[![Guns.lol](https://img.shields.io/badge/Guns.lol-Takayashii-00B5E2?logo=guns-lol&logoColor=white)](https://guns.lol/profile/Takayashii)
-
-### NameMc:
-[![NameMc](https://img.shields.io/badge/NameMc-Takayashii-4E73DF?logo=github&logoColor=white)](https://namemc.com/profile/Takayashii)
-
+### My Links:
+[![Discord](https://img.shields.io/badge/Discord-Takayashii-7289DA?logo=discord&logoColor=white)](https://discord.com/users/Takayashii) [![NameMc](https://img.shields.io/badge/NameMc-Takayashii-4E73DF?logo=github&logoColor=white)](https://namemc.com/profile/Takayashii) [![Guns.lol](https://img.shields.io/badge/Guns.lol-Takayashii-00B5E2?logo=guns-lol&logoColor=white)](https://guns.lol/profile/Takayashii)
 
 <!--
 **Takayashii/Takayashii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
