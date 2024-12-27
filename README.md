@@ -7,7 +7,7 @@ I am a passionate **Developer**, **Graphic Designer**, and **Video Editor**.
 - **Video Editor**: Editing videos, animations, and creating compelling content.
 
 ### My Links:
-[![Discord](https://img.shields.io/badge/Discord-Takayashii-7289DA?logo=discord&logoColor=white)](https://discord.com/users/Takayashii) [![NameMc](https://img.shields.io/badge/NameMc-Takayashii-4E73DF?logo=github&logoColor=white)](https://namemc.com/profile/Takayashii) [![Guns.lol](https://img.shields.io/badge/Guns.lol-Takayashii-00B5E2?logo=guns-lol&logoColor=white)](https://guns.lol/profile/Takayashii)
+[![Discord](https://img.shields.io/badge/Discord-Takayashii-7289DA?logo=discord&logoColor=white)](https://discord.com/users/959071719350468619) [![NameMc](https://img.shields.io/badge/NameMc-Takayashii-4E73DF?logo=github&logoColor=white)](https://namemc.com/profile/Takayashii) [![Guns.lol](https://img.shields.io/badge/Guns.lol-Takayashii-00B5E2?logo=guns-lol&logoColor=white)](https://guns.lol/Takayashii)
 
 <!--
 **Takayashii/Takayashii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
