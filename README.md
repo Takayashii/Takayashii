@@ -1,8 +1,8 @@
 # Takayashii | Profile
 
-I am a passionate **Minecraft Developer**, **Graphic Designer**, and **Video Editor**.
+I am a passionate **Developer**, **Graphic Designer**, and **Video Editor**.
 
-- **Minecraft Developer**: Creating custom mods, plugins, and other Minecraft-related content.
+- **Developer**: Creating servers, plugins, and other Minecraft-related content.
 - **Graphic Designer**: Designing visual assets for web, games, and more.
 - **Video Editor**: Editing videos, animations, and creating compelling content.
 
