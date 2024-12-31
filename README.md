@@ -1,4 +1,5 @@
 # Takayashii | Profile
+_𝖠𝖼𝗁𝗂𝖾𝗏𝗂𝗇𝗀 𝗍𝗁𝖾 𝗀𝗈𝖺𝗅 𝗂𝗌 𝖺 𝗉𝗋𝗂𝗈𝗋𝗂𝗍𝗒_
 
 ### About Me:
 I am a passionate **Developer**, **Graphic Designer**, and **Video Editor**.
