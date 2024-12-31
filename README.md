@@ -1,6 +1,7 @@
 # Takayashii | Profile
 
 I am a passionate **Developer**, **Graphic Designer**, and **Video Editor**.
+_I love playing games like Cs2, The Forest and other FPS or survival games._
 
 - **Developer**: Creating servers, plugins, and other Minecraft-related content.
 - **Graphic Designer**: Designing visual assets for web, games, and more.
