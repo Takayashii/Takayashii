@@ -1,11 +1,13 @@
 # Takayashii | Profile
 
+### About Me:
 I am a passionate **Developer**, **Graphic Designer**, and **Video Editor**.
-I love playing games like Cs2, The Forest and other FPS or survival games.
 
 - **Developer**: Creating servers, plugins, and other Minecraft-related content.
 - **Graphic Designer**: Designing visual assets for web, games, and more.
 - **Video Editor**: Editing videos, animations, and creating compelling content.
+
+I love playing games like Cs2, The Forest and other FPS or survival games.
 
 ### My Links:
 [![Discord](https://img.shields.io/badge/Discord-Takayashii-7289DA?logo=discord&logoColor=white)](https://discord.com/users/959071719350468619) [![NameMc](https://img.shields.io/badge/NameMc-Takayashii-4E73DF?logo=github&logoColor=white)](https://namemc.com/profile/Takayashii) [![Guns.lol](https://img.shields.io/badge/Guns.lol-Takayashii-00B5E2?logo=guns-lol&logoColor=white)](https://guns.lol/Takayashii)
