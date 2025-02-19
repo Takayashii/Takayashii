@@ -1,8 +1,7 @@
 > # Takayashii's Profile
 𝖠𝖼𝗁𝗂𝖾𝗏𝗂𝗇𝗀 𝗍𝗁𝖾 𝗀𝗈𝖺𝗅 𝗂𝗌 𝖺 𝗉𝗋𝗂𝗈𝗋𝗂𝗍𝗒. </br>
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/959071719350468619) [![NameMC](https://img.shields.io/badge/NameMC-1A1A1A?style=flat-square&logo=namemc&logoColor=white)](https://www.namemc.com)
-
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/959071719350468619) [![NameMC](https://img.shields.io/badge/NameMC-1A1A1A?style=flat-square&logo=namemc&logoColor=white)](https://www.namemc.com) [![Guns.lol](https://img.shields.io/badge/Guns.lol-6A0DAD?style=flat-square&logo=gun&logoColor=white)](https://guns.lol)
 
 # Who am I?
 I am **Simon**, a.k.a **Takayashii**.</br>
