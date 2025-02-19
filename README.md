@@ -1,23 +1,19 @@
-# Takayashii | Profile
-_𝖠𝖼𝗁𝗂𝖾𝗏𝗂𝗇𝗀 𝗍𝗁𝖾 𝗀𝗈𝖺𝗅 𝗂𝗌 𝖺 𝗉𝗋𝗂𝗈𝗋𝗂𝗍𝗒_
+> # Takayashii's Profile
+𝖠𝖼𝗁𝗂𝖾𝗏𝗂𝗇𝗀 𝗍𝗁𝖾 𝗀𝗈𝖺𝗅 𝗂𝗌 𝖺 𝗉𝗋𝗂𝗈𝗋𝗂𝗍𝗒. </br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Desistirei&label=Profile%20views&color=0e75b6&style=flat" alt="Desistirei"/> </p>
 
-### About Me:
-Meow.
+# Who am I?
+I am **Simon**, a.k.a **Takayashii**.</br>
+I'm a male, currently living in Poland (Pozdro ściery)</br>
+I'm interested in **Programming, Graphics, Montages, Web-Designs.**</br>
+- Currently I go to technical school and work online as a Graphic Designer, Editor, and Developer.
+- I love listening to music. I listen to artists like Chief Keef, Future, Playboi Carti, Lil Uzi Vert, Ken Carson and many more.
 
-### My Links:
-[![Discord](https://img.shields.io/badge/Discord-Takayashii-7289DA?logo=discord&logoColor=white)](https://discord.com/users/959071719350468619) [![NameMc](https://img.shields.io/badge/NameMc-Takayashii-4E73DF?logo=github&logoColor=white)](https://namemc.com/profile/Takayashii) [![Guns.lol](https://img.shields.io/badge/Guns.lol-Takayashii-00B5E2?logo=guns-lol&logoColor=white)](https://guns.lol/Takayashii)
+# What do I do in GitHub?
+I mostly post on private, open-source **Spigot plugins** that I either coded, fixed or modified.</br>
+I **rarely accept** requests for Minecraft plugins even if they are simple requests.</br>
 
-<!--
-**Takayashii/Takayashii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contact me
+- Discord: **takayashii.**
+- Telegram: **ignTakayashii**
+> Feel **Free** To Contact me!</br>
