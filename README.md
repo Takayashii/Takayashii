@@ -1,6 +1,6 @@
 > # Takayashii's Profile
 𝖠𝖼𝗁𝗂𝖾𝗏𝗂𝗇𝗀 𝗍𝗁𝖾 𝗀𝗈𝖺𝗅 𝗂𝗌 𝖺 𝗉𝗋𝗂𝗈𝗋𝗂𝗍𝗒. </br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Desistirei&label=Profile%20views&color=0e75b6&style=flat" alt="Desistirei"/> </p>
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/TwojLinkDoDiscorda)
 
 # Who am I?
 I am **Simon**, a.k.a **Takayashii**.</br>
