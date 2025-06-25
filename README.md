@@ -3,17 +3,6 @@
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/959071719350468619)  [![NameMC](https://img.shields.io/badge/NameMC-1A1A1A?style=flat-square&logo=namemc&logoColor=white)](https://namemc.com/profile/Takayashii.2)
 
-# Who am I?
-I am **Simon**, a.k.a **Takayashii**.</br>
-I'm a male, currently living in Poland (Pozdro ściery)</br>
-I'm interested in **Programming, Graphics, Montages, Web-Designs.**</br>
-- Currently I go to technical school and work online as a Graphic Designer, Editor, and Developer.
-- I love listening to music. I listen to artists like Chief Keef, Future, Playboi Carti, Lil Uzi Vert, Ken Carson and many more.
-
-# What do I do in GitHub?
-I mostly post on private, open-source **Spigot plugins** that I either coded, fixed or modified.</br>
-I **rarely accept** requests for Minecraft plugins even if they are simple requests.</br>
-
 # Contact me
 - Discord: **takayashii.**
 - Telegram: **ignTakayashii**
