@@ -1,8 +1,38 @@
-> # Takayashii's Profile
-𝖠𝖼𝗁𝗂𝖾𝗏𝗂𝗇𝗀 𝗍𝗁𝖾 𝗀𝗈𝖺𝗅 𝗂𝗌 𝖺 𝗉𝗋𝗂𝗈𝗋𝗂𝗍𝗒. </br>
+<h1 align="center">👋 Sup, I'm Takayashii</h1>
+<p align="center">
+  Developer | Graphics Designer | Editor
+</p>
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/959071719350468619)  [![NameMC](https://img.shields.io/badge/NameMC-1A1A1A?style=flat-square&logo=namemc&logoColor=white)](https://namemc.com/profile/Takayashii.2)
+---
 
-# Contact me
-- Discord: **takayashii.**
-> Feel **Free** To Contact me!</br>
+### 🛠️ Technologie, z których korzystam
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+
+---
+
+### 📈 Statystyki GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=twoja_nazwa_uzytkownika&show_icons=true&theme=dark&hide_border=true" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=twoja_nazwa_uzytkownika&theme=dark&hide_border=true" />
+</p>
+
+---
+
+### 📫 Kontakt
+
+- ✉️ Email: []
+- 🌐 Portfolio: []
+
+---
+
+> "Nie bój się robić rzeczy, które wydają się trudne. Właśnie dzięki nim się rozwijasz." 💡
