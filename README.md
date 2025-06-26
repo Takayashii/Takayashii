@@ -17,12 +17,24 @@
 
 ---
 
-### 📈 Statystyki GitHub
+### 📈 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=takayashii&show_icons=true&theme=dark&hide_border=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=takayashii&theme=dark&hide_border=true" />
+  <a href="https://discord.com/users/your_discord_id" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://steamcommunity.com/id/your_steam_id" target="_blank">
+    <img src="https://img.shields.io/badge/-Steam-000?style=for-the-badge&logo=steam&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@your_channel" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://tiktok.com/@your_username" target="_blank">
+    <img src="https://img.shields.io/badge/-TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://bio.link/your_bio_page" target="_blank">
+    <img src="https://img.shields.io/badge/-BIO--PAGE-000?style=for-the-badge&logo=minutemailer&logoColor=white" />
+  </a>
 </p>
 
 ---
