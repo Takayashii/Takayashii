@@ -5,5 +5,4 @@
 
 # Contact me
 - Discord: **takayashii.**
-- Telegram: **ignTakayashii**
 > Feel **Free** To Contact me!</br>
