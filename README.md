@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center" style="color: #ccc; font-size: 18px;">
-  Developer · Problem Solver · Minimalist
+  Developer | Designer | Video Editor
 </p>
 
 ---
