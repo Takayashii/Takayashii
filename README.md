@@ -5,3 +5,11 @@
 <p align="center" style="color: #ccc; font-size: 18px;">
 Developer | Graphics Designer | Video Editor
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
