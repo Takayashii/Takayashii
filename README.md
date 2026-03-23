@@ -3,5 +3,5 @@
 </h1>
 
 <p align="center" style="color: #ccc; font-size: 18px;">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg"/> <img src="https://m3-markdown-badges.vercel.app/stars/12/2/takayashii/Water-Return">
+<img src="https://m3-markdown-badges.vercel.app/issues/12/2/takayashii/Water-Return"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg"/> <img src="https://m3-markdown-badges.vercel.app/stars/12/2/takayashii/Water-Return">
 </p>
