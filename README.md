@@ -14,7 +14,7 @@
 
 My name is Szymon & Java is my primary language. On the Minecraft side, I build everything
 from a single plugin to the entire server network. 
-I also create things outside of Minecraft like simple applications, scripts and other things. Feel free to contact me!
+I also create things outside of Minecraft like simple applications, scripts and other cool things.
 
 I am currently working on Debuff Network.
 
