@@ -28,8 +28,8 @@ I am currently working on Debuff Network.
 
 ### Featured Projects
 
-<a href="https://dc.debuff.club">Debuff Network</a> <br>
-<a href="https://guns.lol/Takayashii">Cleanify Theme</a> 
+<a href="https://github.com/debuff-club">Debuff Network</a> <br>
+<a href="https://github.com/Takayashii/Cleanify">Cleanify Theme</a> 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" />
